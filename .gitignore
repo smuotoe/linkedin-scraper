@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+/credentials.json
+/chromedriver.exe
+>>>>>>> fbaf4ca (Initial commit)
