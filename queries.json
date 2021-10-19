@@ -1,0 +1,27 @@
+[
+
+  {
+    "description": "exclude founder",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=B%2CC%2CD&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryIncluded=43%2C42%2C124%2C144%2C34%2C17%2C25%2C63&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Founder%3A35&titleIncluded=Chief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Marketing%2520Officer%3A716%2CChief%2520Executive%2520Officer%3A8%2CCo-Founder%3A103&titleTimeScope=CURRENT"
+  },
+  {
+    "description": "include co(founder) excl - financial, food, health",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=B%2CC%2CD&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryExcluded=124%2C34%2C43&industryIncluded=144%2C25%2C42%2C17%2C63&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Chief%2520Marketing%2520Officer%3A716%2CChief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Executive%2520Officer%3A8&titleIncluded=Co-Founder%3A103%2CFounder%3A35&titleTimeScope=CURRENT"
+  },
+  {
+    "description": "co(founder) + health",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=B%2CC%2CD&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryExcluded=144%2C17%2C25%2C34%2C42%2C43%2C63&industryIncluded=124&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Chief%2520Marketing%2520Officer%3A716%2CChief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Executive%2520Officer%3A8&titleIncluded=Co-Founder%3A103%2CFounder%3A35&titleTimeScope=CURRENT"
+  },
+  {
+    "description": "co(founder) + food_beverages",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=B%2CC%2CD&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryExcluded=124%2C144%2C17%2C25%2C42%2C43%2C63&industryIncluded=34&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Chief%2520Marketing%2520Officer%3A716%2CChief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Executive%2520Officer%3A8&titleIncluded=Co-Founder%3A103%2CFounder%3A35&titleTimeScope=CURRENT"
+  },
+  {
+    "description": "co(founder) + 1_10",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=B&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryExcluded=124%2C144%2C17%2C25%2C34%2C42%2C63&industryIncluded=43&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Chief%2520Marketing%2520Officer%3A716%2CChief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Executive%2520Officer%3A8&titleIncluded=Co-Founder%3A103%2CFounder%3A35&titleTimeScope=CURRENT"
+  },
+  {
+    "description": "co(founder) + 11_50 + 51_200",
+    "url": "https://www.linkedin.com/sales/search/people?companySize=C%2CD&companyType=P&doFetchHeroCard=false&geoIncluded=101165590%2C104738515&industryExcluded=124%2C144%2C17%2C25%2C34%2C42%2C63&industryIncluded=43&logHistory=false&page={page}&rsLogId=1083025178&searchSessionId=tH1elhyOROGZhSS53cliZA%3D%3D&tenureAtCurrentCompany=1%2C2%2C3%2C4&titleExcluded=Chief%2520Marketing%2520Officer%3A716%2CChief%2520Operating%2520Officer%3A280%2CChief%2520Financial%2520Officer%3A68%2CChief%2520Executive%2520Officer%3A8&titleIncluded=Co-Founder%3A103%2CFounder%3A35&titleTimeScope=CURRENT"
+  }
+]

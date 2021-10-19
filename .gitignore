@@ -131,4 +131,6 @@ dmypy.json
 =======
 /credentials.json
 /chromedriver.exe
+*.csv
 >>>>>>> fbaf4ca (Initial commit)
+/linkedin_15_10_21.xlsx
